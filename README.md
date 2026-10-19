@@ -25,4 +25,9 @@ Completed labs from the IBM course on Coursera.
 - [4.3 Simple neural network for XOR](module-4/4.3_xor_neural_network.ipynb)
 - [4.4 Training a neural network with momentum](module-4/4.4_training_with_momentum.ipynb)
 
+## Module 5 — Object Detection
+
+- [5.1 Car detection with Haar classifiers](module-5/5.1_car_detection_haar.ipynb)
+- [5.2 Object detection with Faster R-CNN](module-5/5.2_object_detection_faster_rcnn.ipynb)
+
 All notebooks are executed with outputs. Requirements: `numpy`, `matplotlib`, `pillow`, `opencv-python` (4.x), `torch`, `torchvision`, `scikit-learn`, `pandas`, `seaborn`.
