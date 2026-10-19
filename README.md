@@ -18,4 +18,11 @@ Completed labs from the IBM course on Coursera.
 - [3.2 Logistic regression with mini-batch gradient descent](module-3/3.2_logistic_regression_mini_batch_gd.ipynb)
 - [3.3 Digit classification with Softmax](module-3/3.3_digit_classification_softmax.ipynb)
 
+## Module 4 — Neural Networks
+
+- [4.1 Data augmentation](module-4/4.1_data_augmentation.ipynb)
+- [4.2 ReLU vs Sigmoid](module-4/4.2_relu_vs_sigmoid.ipynb)
+- [4.3 Simple neural network for XOR](module-4/4.3_xor_neural_network.ipynb)
+- [4.4 Training a neural network with momentum](module-4/4.4_training_with_momentum.ipynb)
+
 All notebooks are executed with outputs. Requirements: `numpy`, `matplotlib`, `pillow`, `opencv-python` (4.x), `torch`, `torchvision`, `scikit-learn`, `pandas`, `seaborn`.
