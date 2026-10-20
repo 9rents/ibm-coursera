@@ -30,4 +30,8 @@ Completed labs from the IBM course on Coursera.
 - [5.1 Car detection with Haar classifiers](module-5/5.1_car_detection_haar.ipynb)
 - [5.2 Object detection with Faster R-CNN](module-5/5.2_object_detection_faster_rcnn.ipynb)
 
+## Final Project — Stop sign classifier (transfer learning, ResNet-18)
+
+- [final_project_stop_sign_classifier](final-project/final_project_stop_sign_classifier.ipynb)
+
 All notebooks are executed with outputs. Requirements: `numpy`, `matplotlib`, `pillow`, `opencv-python` (4.x), `torch`, `torchvision`, `scikit-learn`, `pandas`, `seaborn`.
